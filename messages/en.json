@@ -1,0 +1,139 @@
+{
+  "common": {
+    "companyName": "Same Day Service",
+    "tagline": "Best Home Appliance Repairs",
+    "callNow": "Call Now",
+    "textUs": "Text Us",
+    "bookService": "Book Service",
+    "phone1": "516-350-0785",
+    "phone2": "516-637-4474",
+    "hours": "7AM - 8PM",
+    "hoursLabel": "Call or Text",
+    "couponText": "$35 Off Your Next Repair",
+    "serviceArea": "Serving Queens, Nassau & Suffolk County",
+    "learnMore": "Learn More",
+    "getEstimate": "Get Free Estimate",
+    "submit": "Submit",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "zip": "ZIP Code",
+    "message": "Message",
+    "home": "Home",
+    "services": "Services",
+    "booking": "Book Now",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "home": {
+    "heroTitle": "Same Day Appliance Repair",
+    "heroSubtitle": "Fast, reliable repairs for your home appliances in Queens, Nassau & Suffolk County",
+    "heroCta": "Book Same-Day Service",
+    "howItWorksTitle": "How It Works",
+    "step1Title": "Book",
+    "step1Desc": "Call, text, or fill out our online form",
+    "step2Title": "We Arrive",
+    "step2Desc": "A certified technician arrives the same day",
+    "step3Title": "We Fix",
+    "step3Desc": "Your appliance is repaired quickly and professionally",
+    "servicesTitle": "Our Services",
+    "whyUsTitle": "Why Choose Same Day Service?",
+    "reason1": "Same-Day Service Guaranteed",
+    "reason2": "Licensed & Insured Technicians",
+    "reason3": "Upfront Pricing - No Hidden Fees",
+    "reason4": "All Major Brands Serviced",
+    "ctaTitle": "Need a Repair Today?",
+    "ctaSubtitle": "Call or text us now for same-day service"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We repair all major home appliances",
+    "washer": {
+      "name": "Washer Repair",
+      "description": "Expert washing machine repair for all major brands. We fix leaks, drainage issues, spin problems, and more.",
+      "problems": ["Not draining", "Leaking water", "Won't spin", "Making loud noises", "Not starting", "Vibrating excessively"]
+    },
+    "dryer": {
+      "name": "Dryer Repair",
+      "description": "Professional dryer repair services. We handle heating issues, tumbling problems, and electrical faults.",
+      "problems": ["Not heating", "Not tumbling", "Taking too long to dry", "Making strange noises", "Not starting", "Overheating"]
+    },
+    "range": {
+      "name": "Range & Oven Repair",
+      "description": "Complete range, oven, and stove repair. Gas and electric models serviced.",
+      "problems": ["Not heating", "Uneven heating", "Burner not lighting", "Temperature inaccurate", "Door not closing", "Self-clean not working"]
+    },
+    "dishwasher": {
+      "name": "Dishwasher Repair",
+      "description": "Full dishwasher repair services. We fix drainage, cleaning, and mechanical issues.",
+      "problems": ["Not cleaning dishes", "Not draining", "Leaking", "Not starting", "Making noise", "Door latch broken"]
+    },
+    "refrigerator": {
+      "name": "Refrigerator Repair",
+      "description": "Refrigerator and freezer repair for all brands. We handle cooling, ice maker, and compressor issues.",
+      "problems": ["Not cooling", "Freezer not working", "Ice maker broken", "Leaking water", "Making loud noise", "Running constantly"]
+    },
+    "ac": {
+      "name": "Central A/C Repair",
+      "description": "Central air conditioning repair and maintenance. Stay cool with our expert HVAC services.",
+      "problems": ["Not cooling", "Blowing warm air", "Strange noises", "Leaking", "Thermostat issues", "Short cycling"]
+    },
+    "plumbing": {
+      "name": "Plumbing Services",
+      "description": "General plumbing repair services. We fix leaks, clogs, and pipe issues throughout your home.",
+      "problems": ["Leaky faucets", "Clogged drains", "Running toilet", "Low water pressure", "Pipe repairs", "Water heater issues"]
+    },
+    "brands": "We Service All Major Brands",
+    "brandList": "Samsung, LG, Whirlpool, GE, Maytag, Frigidaire, KitchenAid, Bosch, Kenmore & More"
+  },
+  "booking": {
+    "title": "Book a Service",
+    "subtitle": "Fill out the form below and we'll get back to you right away",
+    "serviceType": "Service Type",
+    "selectService": "Select a service...",
+    "problemDescription": "Describe the Problem",
+    "problemPlaceholder": "Tell us what's wrong with your appliance...",
+    "preferredDate": "Preferred Date",
+    "preferredTime": "Preferred Time",
+    "morning": "Morning (7AM - 12PM)",
+    "afternoon": "Afternoon (12PM - 4PM)",
+    "evening": "Evening (4PM - 8PM)",
+    "uploadPhotos": "Upload Photos (Optional)",
+    "uploadHint": "Upload up to 3 photos of the issue",
+    "successTitle": "Request Submitted!",
+    "successMessage": "We'll contact you shortly to confirm your appointment. For immediate service, call us at",
+    "orCallUs": "Or call us now for immediate service"
+  },
+  "about": {
+    "title": "About Same Day Service",
+    "subtitle": "Your trusted local appliance repair experts",
+    "story": "Same Day Service has been proudly serving the Queens, Nassau, and Suffolk County communities with fast, reliable home appliance repair. Owned and operated by Jay, our company is built on a simple promise: when your appliances break down, we show up the same day to fix them.",
+    "mission": "Our Mission",
+    "missionText": "To provide the fastest, most reliable home appliance repair service in the tri-county area. We believe no one should have to wait days for essential home repairs.",
+    "values": "Our Values",
+    "value1Title": "Speed",
+    "value1Desc": "Same-day service is not just our name - it's our guarantee",
+    "value2Title": "Quality",
+    "value2Desc": "We use quality parts and stand behind every repair",
+    "value3Title": "Honesty",
+    "value3Desc": "Upfront pricing with no hidden fees or surprise charges",
+    "value4Title": "Expertise",
+    "value4Desc": "Our technicians are licensed, insured, and factory-trained"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for fast, reliable appliance repair",
+    "callUs": "Call Us",
+    "textUs": "Text Us",
+    "businessHours": "Business Hours",
+    "hoursDetail": "Monday - Sunday: 7AM - 8PM",
+    "serviceAreaTitle": "Service Area",
+    "serviceAreaDetail": "We proudly serve Queens (NYC), Nassau County, and Suffolk County on Long Island, NY",
+    "sendMessage": "Send Us a Message",
+    "messagePlaceholder": "How can we help you?",
+    "sent": "Message sent! We'll get back to you shortly."
+  }
+}

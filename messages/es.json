@@ -1,0 +1,139 @@
+{
+  "common": {
+    "companyName": "Same Day Service",
+    "tagline": "Las Mejores Reparaciones de Electrodomésticos",
+    "callNow": "Llame Ahora",
+    "textUs": "Envíe un Texto",
+    "bookService": "Reserve Servicio",
+    "phone1": "516-350-0785",
+    "phone2": "516-637-4474",
+    "hours": "7AM - 8PM",
+    "hoursLabel": "Llame o Envíe Texto",
+    "couponText": "$35 de Descuento en Su Próxima Reparación",
+    "serviceArea": "Sirviendo Queens, Nassau y Suffolk County",
+    "learnMore": "Más Información",
+    "getEstimate": "Estimado Gratis",
+    "submit": "Enviar",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "city": "Ciudad",
+    "zip": "Código Postal",
+    "message": "Mensaje",
+    "home": "Inicio",
+    "services": "Servicios",
+    "booking": "Reservar",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "home": {
+    "heroTitle": "Reparación de Electrodomésticos el Mismo Día",
+    "heroSubtitle": "Reparaciones rápidas y confiables para sus electrodomésticos en Queens, Nassau y Suffolk County",
+    "heroCta": "Reserve Servicio Hoy",
+    "howItWorksTitle": "Cómo Funciona",
+    "step1Title": "Reserve",
+    "step1Desc": "Llame, envíe texto o complete nuestro formulario en línea",
+    "step2Title": "Llegamos",
+    "step2Desc": "Un técnico certificado llega el mismo día",
+    "step3Title": "Reparamos",
+    "step3Desc": "Su electrodoméstico es reparado rápida y profesionalmente",
+    "servicesTitle": "Nuestros Servicios",
+    "whyUsTitle": "¿Por Qué Elegir Same Day Service?",
+    "reason1": "Servicio el Mismo Día Garantizado",
+    "reason2": "Técnicos Licenciados y Asegurados",
+    "reason3": "Precios Transparentes - Sin Cargos Ocultos",
+    "reason4": "Todas las Marcas Principales",
+    "ctaTitle": "¿Necesita una Reparación Hoy?",
+    "ctaSubtitle": "Llámenos o envíe un texto ahora para servicio el mismo día"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Reparamos todos los electrodomésticos principales",
+    "washer": {
+      "name": "Reparación de Lavadora",
+      "description": "Reparación experta de lavadoras para todas las marcas principales. Reparamos fugas, problemas de drenaje, problemas de centrifugado y más.",
+      "problems": ["No drena", "Fuga de agua", "No centrifuga", "Hace ruidos fuertes", "No enciende", "Vibra excesivamente"]
+    },
+    "dryer": {
+      "name": "Reparación de Secadora",
+      "description": "Servicios profesionales de reparación de secadoras. Manejamos problemas de calentamiento, problemas de tambor y fallas eléctricas.",
+      "problems": ["No calienta", "No gira", "Tarda mucho en secar", "Hace ruidos extraños", "No enciende", "Se sobrecalienta"]
+    },
+    "range": {
+      "name": "Reparación de Estufa y Horno",
+      "description": "Reparación completa de estufas, hornos y cocinas. Modelos de gas y eléctricos.",
+      "problems": ["No calienta", "Calentamiento desigual", "Quemador no enciende", "Temperatura inexacta", "Puerta no cierra", "Auto-limpieza no funciona"]
+    },
+    "dishwasher": {
+      "name": "Reparación de Lavavajillas",
+      "description": "Servicios completos de reparación de lavavajillas. Reparamos problemas de drenaje, limpieza y mecánicos.",
+      "problems": ["No limpia los platos", "No drena", "Fuga", "No enciende", "Hace ruido", "Seguro de puerta roto"]
+    },
+    "refrigerator": {
+      "name": "Reparación de Refrigerador",
+      "description": "Reparación de refrigeradores y congeladores de todas las marcas. Manejamos problemas de enfriamiento, máquina de hielo y compresor.",
+      "problems": ["No enfría", "Congelador no funciona", "Máquina de hielo rota", "Fuga de agua", "Hace ruido fuerte", "Funciona constantemente"]
+    },
+    "ac": {
+      "name": "Reparación de Aire Central",
+      "description": "Reparación y mantenimiento de aire acondicionado central. Manténgase fresco con nuestros servicios expertos de HVAC.",
+      "problems": ["No enfría", "Sopla aire caliente", "Ruidos extraños", "Fuga", "Problemas de termostato", "Ciclo corto"]
+    },
+    "plumbing": {
+      "name": "Servicios de Plomería",
+      "description": "Servicios generales de reparación de plomería. Reparamos fugas, obstrucciones y problemas de tuberías en toda su casa.",
+      "problems": ["Grifos con fuga", "Desagües obstruidos", "Inodoro corriendo", "Baja presión de agua", "Reparación de tuberías", "Problemas de calentador de agua"]
+    },
+    "brands": "Servimos Todas las Marcas Principales",
+    "brandList": "Samsung, LG, Whirlpool, GE, Maytag, Frigidaire, KitchenAid, Bosch, Kenmore y Más"
+  },
+  "booking": {
+    "title": "Reserve un Servicio",
+    "subtitle": "Complete el formulario y nos comunicaremos con usted de inmediato",
+    "serviceType": "Tipo de Servicio",
+    "selectService": "Seleccione un servicio...",
+    "problemDescription": "Describa el Problema",
+    "problemPlaceholder": "Díganos qué le pasa a su electrodoméstico...",
+    "preferredDate": "Fecha Preferida",
+    "preferredTime": "Hora Preferida",
+    "morning": "Mañana (7AM - 12PM)",
+    "afternoon": "Tarde (12PM - 4PM)",
+    "evening": "Noche (4PM - 8PM)",
+    "uploadPhotos": "Subir Fotos (Opcional)",
+    "uploadHint": "Suba hasta 3 fotos del problema",
+    "successTitle": "¡Solicitud Enviada!",
+    "successMessage": "Nos comunicaremos con usted pronto para confirmar su cita. Para servicio inmediato, llámenos al",
+    "orCallUs": "O llámenos ahora para servicio inmediato"
+  },
+  "about": {
+    "title": "Acerca de Same Day Service",
+    "subtitle": "Sus expertos locales de confianza en reparación de electrodomésticos",
+    "story": "Same Day Service ha servido con orgullo a las comunidades de Queens, Nassau y Suffolk County con reparaciones rápidas y confiables de electrodomésticos del hogar. Propiedad y operado por Jay, nuestra empresa se basa en una promesa simple: cuando sus electrodomésticos se descomponen, llegamos el mismo día para repararlos.",
+    "mission": "Nuestra Misión",
+    "missionText": "Proporcionar el servicio de reparación de electrodomésticos más rápido y confiable en el área de los tres condados. Creemos que nadie debería esperar días para reparaciones esenciales del hogar.",
+    "values": "Nuestros Valores",
+    "value1Title": "Rapidez",
+    "value1Desc": "El servicio el mismo día no es solo nuestro nombre, es nuestra garantía",
+    "value2Title": "Calidad",
+    "value2Desc": "Usamos piezas de calidad y respaldamos cada reparación",
+    "value3Title": "Honestidad",
+    "value3Desc": "Precios transparentes sin cargos ocultos ni sorpresas",
+    "value4Title": "Experiencia",
+    "value4Desc": "Nuestros técnicos son licenciados, asegurados y entrenados de fábrica"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Comuníquese con nosotros para reparaciones rápidas y confiables",
+    "callUs": "Llámenos",
+    "textUs": "Envíe un Texto",
+    "businessHours": "Horario de Atención",
+    "hoursDetail": "Lunes - Domingo: 7AM - 8PM",
+    "serviceAreaTitle": "Área de Servicio",
+    "serviceAreaDetail": "Servimos con orgullo a Queens (NYC), Nassau County y Suffolk County en Long Island, NY",
+    "sendMessage": "Envíenos un Mensaje",
+    "messagePlaceholder": "¿Cómo podemos ayudarle?",
+    "sent": "¡Mensaje enviado! Nos comunicaremos con usted pronto."
+  }
+}
